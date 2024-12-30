@@ -62,7 +62,7 @@
 
 ---
 
-### 📝 Latest Blog Posts  
+<!-- ### 📝 Latest Blog Posts   -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How I Built a Full-Stack App with Django and React](https://yourblog.com/post1)
