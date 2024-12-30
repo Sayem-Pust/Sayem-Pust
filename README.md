@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-sayem-4a3a8b15a"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/sayem1995"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&logo=facebook&logoColor=white"></a>
   <a href="mailto:mdsayem1629@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
